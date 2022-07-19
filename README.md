@@ -1,7 +1,7 @@
 # Starter Web Repo
 aaaaaaaaaaaaabbbbbbbbbbbb
 This repository is for showing how Git and GitHub work
-afterr reabse	
+	
 ## Introduction
 
 This is an example
